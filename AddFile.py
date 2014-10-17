@@ -1,4 +1,3 @@
-#overunity
 from tkFileDialog import *
 import hashlib
 import tkMessageBox
